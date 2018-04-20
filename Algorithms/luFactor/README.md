@@ -14,3 +14,6 @@ was pivoted. Ultimately, it ensures that A*P=L*U.
     L = lower triangular matrix
     U = upper triangular matrix
     P = the pivot matrix
+    
+## Instructions
+type luFactor(A) into the command window
