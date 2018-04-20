@@ -1,5 +1,5 @@
-# Function Definition
-'Simpson'
+# **Function Definition**
+
 
 # Contents of the Code
 function [I] = Simpson(x,y)
