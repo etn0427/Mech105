@@ -8,3 +8,5 @@ trapazodial method if the number of spacings is odd
     y = y values of the related x values
 ## Outputs:
     I = approximate integral of the x and y coordinates
+## Instructions:
+Type Simpson(x,y) into the command window
