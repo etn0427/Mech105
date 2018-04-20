@@ -1,2 +1,2 @@
 # Content
-These folders all contain an explanation of the algorithms used inside and a README file explaining the algorithms.
+These folders all contain an explanation (in the form of a README) of the algorithms used inside and the actual algorithms.
