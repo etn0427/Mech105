@@ -16,4 +16,4 @@ was pivoted. Ultimately, it ensures that A*P=L*U.
     P = the pivot matrix
     
 ## Instructions
-type luFactor(A) into the command window
+Type luFactor(A) into the command window
