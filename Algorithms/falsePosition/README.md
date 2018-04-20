@@ -17,3 +17,5 @@ approximate error (ea) or the number of iterations (maxiter)
        fx - the function evaluated at the root location
        ea - the approximate relative error (%)
        iter - how many iterations were performed
+## Instructions:
+Type falsePosition(func,xl,xu,es,maxiter) into the command window. Ensure that the func is a predefined anonymous or symbolic funciton.
